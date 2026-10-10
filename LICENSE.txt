@@ -1,0 +1,23 @@
+FAZOR PROPRIETARY SOFTWARE LICENSE
+Copyright © 2026 Hasan Aşcı. All rights reserved.
+
+Copyright and other intellectual-property rights in the Fazor components authored,
+selected, arranged, or lawfully owned by Hasan Aşcı remain with Hasan Aşcı. No
+ownership right is transferred to a user. Third-party components are excluded from
+this claim and remain governed by the licenses listed in THIRD-PARTY-LICENSES.txt.
+
+You may install and use one copy of Fazor for personal, non-commercial purposes.
+Except where mandatory law permits it, you may not copy, modify, adapt, create
+derivative works from, redistribute, publish, sell, rent, sublicense, decompile,
+disassemble, or reverse engineer Fazor without prior written permission from Hasan
+Aşcı. You may not remove or alter copyright, ownership, or trademark notices.
+
+FAZOR IS PROVIDED “AS IS”, WITHOUT EXPRESS OR IMPLIED WARRANTY. TO THE FULLEST
+EXTENT PERMITTED BY APPLICABLE LAW, HASAN AŞCI SHALL NOT BE LIABLE FOR INDIRECT,
+INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF OR INABILITY TO
+USE THE SOFTWARE. MANDATORY STATUTORY RIGHTS REMAIN UNAFFECTED.
+
+Use of Fazor is also subject to the End User License Agreement supplied with the
+installer and displayed on first launch. This license is governed by the laws of the
+Republic of Türkiye, subject to mandatory jurisdiction rules.
+

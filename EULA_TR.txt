@@ -1,0 +1,27 @@
+Fazor Son Kullanıcı Lisans Sözleşmesi
+Belge sürümü 1.0 · Yürürlük tarihi 10 Eylül 2026 · Lisans veren: Hasan Aşcı
+
+Bu sözleşme, Fazor yazılımının ("Yazılım") kullanımına ilişkin koşulları düzenler ve Hasan Aşcı ("Lisans Veren") ile sizin aranızda bağlayıcı bir sözleşme oluşturur. Yazılımı kurarak, açarak veya "Kabul Ediyorum" düğmesini seçerek bu koşulların tamamını kabul etmiş olursunuz. Koşulları kabul etmiyorsanız Yazılımı kurmayın ve kullanmayın.
+
+1. Lisansın kapsamı
+Lisans Veren, Yazılımın bir kopyasını kişisel ve ticari olmayan amaçlarla kullanmanız için sınırlı, geri alınabilir, münhasır olmayan ve devredilemez bir kullanım hakkı verir. Yazılım satılmaz; yalnızca bu sözleşmede belirtilen kullanım hakkı verilir.
+
+2. Fikri mülkiyet hakları
+Yazılımın kaynak kodu, derlenmiş bileşenleri, özgün arayüzü, görsel kimliği ve belgeleri üzerindeki tüm haklar Hasan Aşcı'ya aittir. Üçüncü taraf bileşenleri bu kapsamın dışındadır; kendi lisans koşullarına tabidir ve THIRD-PARTY-LICENSES.txt dosyasında listelenir.
+
+3. Kısıtlamalar
+Emredici hukuk kurallarının izin verdiği durumlar dışında ve Lisans Verenin önceden yazılı izni olmaksızın Yazılımı kopyalayamaz, değiştiremez, uyarlayamaz, türev eser oluşturamaz, yeniden dağıtamaz, yayımlayamaz, satamaz, kiralayamaz, alt lisanslayamaz; kaynak koda dönüştürmeye veya tersine mühendislik yapmaya çalışamazsınız. Telif hakkı, sahiplik ve marka bildirimlerini kaldıramaz veya değiştiremezsiniz.
+
+4. Hesaplama sonuçları
+Yazılım, eğitim ve genel mühendislik hesaplamalarına yardımcı olmak amacıyla "olduğu gibi" sunulur. Hesaplama sonuçlarının her kullanım için hatasız veya uygun olduğu garanti edilmez. Güvenlik açısından kritik mühendislik, tıbbi, mali veya hukuki kararlarda sonuçları bağımsız bir yöntemle doğrulamak kullanıcının sorumluluğundadır.
+
+5. Garanti reddi ve sorumluluğun sınırlandırılması
+Uygulanabilir hukukun izin verdiği en geniş ölçüde, açık veya zımni tüm garantiler reddedilir. Lisans Veren, Yazılımın kullanımından veya kullanılamamasından doğan dolaylı, arızi, özel veya sonuç niteliğindeki zararlardan sorumlu tutulamaz. Emredici hukuk hükümleri saklıdır.
+
+6. Sözleşmenin sona ermesi
+Bu koşullara aykırı davranmanız hâlinde lisans kendiliğinden sona erer. Bu durumda elinizde bulunan tüm Yazılım kopyalarını silmeniz gerekir.
+
+7. Uygulanacak hukuk ve yetki
+Bu sözleşmeye Türkiye Cumhuriyeti hukuku uygulanır. Emredici yetki kuralları saklı kalmak kaydıyla uyuşmazlıklar, Türkiye'deki yetkili mahkeme ve icra dairelerinde çözümlenir.
+
+Telif hakkı © 2026 Hasan Aşcı. Tüm hakları saklıdır.
