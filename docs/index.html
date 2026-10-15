@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Fazor — Bilimsel Hesap Makinesi</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #f4f6f5;
+        --fg: #16211f;
+        --muted: #4c5a56;
+        --card: #ffffff;
+        --accent: #07554f;
+        --line: #d9e3df;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #101b1a;
+          --fg: #e8f1ee;
+          --muted: #9db3ac;
+          --card: #172523;
+          --accent: #7fd8c8;
+          --line: #243835;
+        }
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--fg);
+        font: 16px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        display: grid;
+        place-items: center;
+        min-height: 100vh;
+      }
+      main { max-width: 640px; padding: 32px 20px; text-align: center; }
+      .logo {
+        width: 72px; height: 72px; border-radius: 18px; margin: 0 auto 16px;
+        background: linear-gradient(135deg, #0b8f82, #07554f);
+        color: #fff; display: grid; place-items: center;
+        font-weight: 700; font-size: 40px; font-style: italic;
+      }
+      h1 { margin: 0 0 6px; font-size: 30px; }
+      p { color: var(--muted); margin: 6px 0 22px; }
+      .links { display: grid; gap: 10px; }
+      a.btn {
+        display: block; padding: 14px 18px; border-radius: 12px;
+        border: 1px solid var(--line); background: var(--card);
+        color: var(--fg); text-decoration: none; font-weight: 600;
+      }
+      a.btn.primary { background: var(--accent); color: #fff; border-color: transparent; }
+      footer { margin-top: 26px; font-size: 13px; color: var(--muted); }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="logo">ƒ</div>
+      <h1>Fazor</h1>
+      <p>
+        Çevrimdışı bilimsel hesap makinesi — Windows, Android ve web.<br />
+        <span lang="en">Offline scientific calculator for Windows, Android and web.</span>
+      </p>
+      <div class="links">
+        <a class="btn primary" href="privacy.html">Gizlilik Politikası / Privacy Policy</a>
+        <a class="btn" href="https://github.com/withien/Fazor/releases">Windows Sürümünü İndir</a>
+        <a class="btn" href="https://www.hasanasci.com.tr/calculator">Web'de Dene</a>
+      </div>
+      <footer>© 2026 Hasan Aşcı · Fazor</footer>
+    </main>
+  </body>
+</html>
